@@ -1,0 +1,19 @@
+# Xcode
+## User settings
+xcuserdata/
+*.xcuserdatad
+
+## Build generated
+build/
+DerivedData/
+*.moved-aside
+*.xcuserstate
+
+## CocoaPods / SwiftPM
+Pods/
+.build/
+
+## macOS
+.DS_Store
+*.swp
+*~
